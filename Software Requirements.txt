@@ -1,0 +1,5 @@
+Software Specification
+
+1. Python 2.7.2
+
+Packages : Numpy, Pandas, Matplotlib,Seaborn, scikitlearn
